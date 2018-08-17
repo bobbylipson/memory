@@ -2,7 +2,7 @@
   "name": "memory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bobbylipson.github.io/memory",
+  "homepage": "https://bobbylipson.github.io/memory/",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
